@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/happyany-latex-mathml-mcp-server-badge.png)](https://mseep.ai/app/happyany-latex-mathml-mcp-server)
+
 # LaTeX to MathML MCP Server
 
 A Model Context Protocol (MCP) server that converts LaTeX mathematical expressions to MathML format. And this README.md is written by DeepSeek V3.
